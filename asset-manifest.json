@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/weatherly/static/css/main.5da743b2.chunk.css",
+    "main.js": "/weatherly/static/js/main.42058468.chunk.js",
+    "main.js.map": "/weatherly/static/js/main.42058468.chunk.js.map",
+    "runtime-main.js": "/weatherly/static/js/runtime-main.87d9ad3e.js",
+    "runtime-main.js.map": "/weatherly/static/js/runtime-main.87d9ad3e.js.map",
+    "static/js/2.632eb01b.chunk.js": "/weatherly/static/js/2.632eb01b.chunk.js",
+    "static/js/2.632eb01b.chunk.js.map": "/weatherly/static/js/2.632eb01b.chunk.js.map",
+    "index.html": "/weatherly/index.html",
+    "precache-manifest.dedde64f49b7dfa1aac93c5c88f6ad43.js": "/weatherly/precache-manifest.dedde64f49b7dfa1aac93c5c88f6ad43.js",
+    "service-worker.js": "/weatherly/service-worker.js",
+    "static/css/main.5da743b2.chunk.css.map": "/weatherly/static/css/main.5da743b2.chunk.css.map",
+    "static/js/2.632eb01b.chunk.js.LICENSE.txt": "/weatherly/static/js/2.632eb01b.chunk.js.LICENSE.txt",
+    "static/media/index.css": "/weatherly/static/media/nattu-adnan-atSUvc1hMwk-unsplash.d3d11133.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.87d9ad3e.js",
+    "static/js/2.632eb01b.chunk.js",
+    "static/css/main.5da743b2.chunk.css",
+    "static/js/main.42058468.chunk.js"
+  ]
+}

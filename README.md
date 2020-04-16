@@ -12,13 +12,12 @@
     <img src="https://img.shields.io/badge/license-MIT-blue.svg" alt="weatherly-react-app: Weatherly is released under the MIT license." />
   </a>
   <img src="https://img.shields.io/badge/PRs-welcome-brightgreen.svg" alt="PRs welcome!" />
-  <!-- Place this tag where you want the button to render. -->
-<a class="github-button" href="https://github.com/Uyadav207/weatherly/fork" data-icon="octicon-repo-forked" data-size="large" aria-label="Fork Uyadav207/weatherly on GitHub">Fork</a>
+  <img alt="GitHub followers" src="https://img.shields.io/github/followers/Uyadav207?label=Follow&style=social">
 </p>
 
 
-Weatherly is a web application based on Node.js. It uses a weather forecasting API's that Needs Name of the city as an input.
-and Access Token are provided already in the file.
+
+Weatherly is a React-Application (Web Application). It's a weather application, one can know the weather condition and can take up an Umbrella though ☂☔☂☔🏖  while moving Out...😜😜😜🌪🌤🌩🌨👈👈😎
 
 ## Getting Started
 
@@ -28,7 +27,7 @@ and Access Token are provided already in the file.
  * Open a Terminal
 ```
 git clone <SSH/FileName>
-cd weather_report
+cd weather-react-app
 code . / atom .
 ```
 * use `code . ` for [VsCode](https://code.visualstudio.com/)
@@ -36,7 +35,7 @@ code . / atom .
 
 ### Prerequisites
 
-* Requires [Node.JS](https://nodejs.org/en/) to be Installed on your system.
+* Requires [ReactJS](https://reactjs.org/) <img src="https://img.icons8.com/color/144/000000/react-native.png" alt="Reactjs" width="20px">
 * The Geek forking should know how to use Node.js ? ... If not Head On to [Node.JS Documentation](https://nodejs.org/en/)
 * The Geek Requesting merge should Document the Modifications in [Modifications.md](https://github.com/Uyadav207/Weather_report/blob/master/MODIFICATION.md)
 
@@ -51,7 +50,9 @@ npm install
 if any error occurs : Do install the Packages seperately like Below:
 
 ```
-npm i express ejs nodemon body-parser mongoose
+$ yarn add @fortawesome/fontawesome-svg-core
+$ yarn add @fortawesome/free-solid-svg-icons
+$ yarn add @fortawesome/react-fontawesome
 ```
 Wait Until installation is Finished..........Now follow the steps below.
 
@@ -69,17 +70,17 @@ atom .
 
 * To run the test on Your Local Environment.
 ```
-node app.js
+npm start
 ```
 or
 ```
-nodemon app.js
+yarn start
 ```
 
 ## Break down into end to end tests
 
 Now to Preview what's in it follow the steps below:
-* Head on any Browser **Chrome RECOMMENDED**
+* Head on to any Browser **Chrome RECOMMENDED**
  * go to :
  ```
  localhost:3000  
@@ -89,12 +90,12 @@ Now You are Good to go 😜😜😍😍👌👌👌👌👌👌 You did a Great 
 
 ## Deployment
 
-For Deployment Purpose [Herokuapp](https://devcenter.heroku.com/start) is Used. 
+For Deployment Purpose [Github Pages](https://pages.github.com/) is Used. 
 
 ## Built With
 
-* [Node.js](http://www.dropwizard.io/1.0.2/docs/) - The web framework used for Back-end
-* [Herokuapp](https://devcenter.heroku.com/start) - Deployment
+* [ReactJS](https://reactjs.org/) - The web framework used for Front-End
+* [Githug Pages](https://pages.github.com/) - Deployment
 
 ## Author
 
@@ -108,5 +109,5 @@ This project is licensed under the MIT License - see the [LICENSE.md](LICENSE) f
 
 ## Acknowledgments
 
-* Weather api accuweather.com
-* Social Inspired.
+* [Openweatherapi](https://openweathermap.org/)
+* [Deploy Github Pages](https://www.youtube.com/watch?v=F8s4Ng-re0E)👈👈😍

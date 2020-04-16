@@ -12,9 +12,8 @@
     <img src="https://img.shields.io/badge/license-MIT-blue.svg" alt="weatherly-react-app: Weatherly is released under the MIT license." />
   </a>
   <img src="https://img.shields.io/badge/PRs-welcome-brightgreen.svg" alt="PRs welcome!" />
-  <a href="https://github.com/intent/follow?screen_name=lekoarts_de">
-    <img src="https://img.shields.io/github/followers/Uyadav207?label=Follow&style=social" alt="Follow @Uyadav207" />
-  </a>
+  <!-- Place this tag where you want the button to render. -->
+<a class="github-button" href="https://github.com/Uyadav207/weatherly/fork" data-icon="octicon-repo-forked" data-size="large" aria-label="Fork Uyadav207/weatherly on GitHub">Fork</a>
 </p>
 
 

@@ -36,7 +36,7 @@ code . / atom .
 ### Prerequisites
 
 * Requires [ReactJS](https://reactjs.org/) <img src="https://img.icons8.com/color/144/000000/react-native.png" alt="Reactjs" width="20px">
-* The Geek forking should know how to use routing and API's Fetching ? ... If not Head On to [Fetching Reac API's](https://www.youtube.com/watch?v=T3Px88x_PsA)
+* The Geek forking should know how to use routing and API's Fetching ? ... If not Head On to [Fetching Reacy API's](https://www.youtube.com/watch?v=T3Px88x_PsA)<img src="https://img.icons8.com/color/144/000000/react-native.png" alt="Reactjs" width="30px">
 * The Geek Requesting merge should Document the Modifications in [Modifications.md](https://github.com/Uyadav207/Weather_report/blob/master/MODIFICATION.md)
 
 ### Installing
